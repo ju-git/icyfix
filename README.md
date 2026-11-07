@@ -111,7 +111,7 @@ GPLv3.0
 
 ## Change log
 
-07 nov. 2026 : v1.0.0 : First commit. Program tested on W11 with 100% success rate on 92 files (~1gbps 50 songs/titles per file)
+07 nov. 2026 : v1.0.0 : First commit. Program tested on W10 with 100% success rate on 92 files (~1gbps 50 songs/titles per file)
 
 
 ## More
