@@ -6,6 +6,7 @@ Repair raw Shoutcast / Icecast (ICY) stream recordings so they play cleanly in a
 
 > **Vibe-coded with [Claude](https://claude.ai).**
 > This project was written through a conversation with Claude (Anthropic's AI assistant). Review the code before relying on it, and please report any issues you find.
+> See my prompts in the "doc" folder.
 
 ---
 
