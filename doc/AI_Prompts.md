@@ -32,7 +32,7 @@
 
 * **Result:** It works, the .cue files are correct, and Foobar2000 can read them. The id3_tag function are still in the source, but I still don't now if it works (see Prompt 2).
 
-* **Tests:**  Program tested on W10 with 100% success rate on 92 files (~1GBps and 50 songs/titles per file)
+* **Tests:**  Program tested on W10 with 100% success rate on 92 files (~1GB for 50 songs/titles per file)
 
 ---
 
