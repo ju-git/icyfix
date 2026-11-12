@@ -133,6 +133,8 @@ __WARNING : Personal/specific commands. Use if you understand what you do.__
       sleep 15
     done
 
+WARNING: You can also dump the stream without the "Icy-MetaData: 1" header, which makes this tool useless. However, if you do so, the metadata will not be saved throughout the stream.
+
 ### Renaming and removing the ".icecast_with_headers" string where it is : 
 
     for i in *with_head*; do   new=$(echo $i | sed "s/.icecast_with_headers_fixed//" ) ;   mv -v $i $new; done
